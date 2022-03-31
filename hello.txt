@@ -1,2 +1,3 @@
-This is second branch. File hello.txt ver1
-upd. ver2
+This is second branch. File hello.txt ver1. first commit here
+upd. ver2. second commit here
+third commit here
